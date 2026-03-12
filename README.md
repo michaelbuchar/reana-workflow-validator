@@ -9,9 +9,9 @@
 
 ## About
 
-REANA-Workflow-Validator is a component of the
-[REANA](http://www.reana.io/) reusable and reproducible research data
-analysis platform. It takes care of validating user-submitted workflows.
+REANA-Workflow-Validator is a component of the [REANA](http://www.reana.io/)
+reusable and reproducible research data analysis platform. It takes care of
+validating user-submitted workflows.
 
 ## Features
 
